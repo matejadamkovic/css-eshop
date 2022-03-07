@@ -1,0 +1,113 @@
+*{ 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:0;
+    padding: 0;
+    }
+    header{
+        background-color: grey;
+        color:white;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        height: 60px;
+        position: sticky;
+      }
+      
+      .nazov{
+      padding-right: 700px;
+      font-size: 30px;
+      text-decoration: none;
+      padding-top: 10px;
+      }
+      h4{
+font-size: 30px;
+
+
+      }
+      a{
+        text-decoration: none;
+        color: white;
+        margin: 15px;
+        font-size: 14px;
+        padding-top: 10px;
+        position: relative;
+        font-weight: 700;
+      }
+      .navigac{
+      
+      padding-top: 20px;
+      }
+      
+      a:hover{
+      color:rgb(56, 42, 42);
+      transition: 1s;
+      text-shadow: 0 0 10px #fff ,
+      0 0 20px #fff ,
+      0 0 30px #fff ,
+      0 0 40px #fff ,
+      0 0 50px #fff ,
+      0 0 60px #fff ;
+      }
+      .logo{
+        width: 40px;
+        height: 40px;
+        padding-top: 10px;
+        cursor: pointer;
+      }
+      .menu{
+      width: 40px;
+      height: 40px;
+      padding-top: 10px;
+      padding-left: 5px;
+      cursor: pointer;
+      }
+      .o_nas {
+      border-style: inset;
+        padding: 5px;
+        color: white;
+      }
+     
+    .buttons{
+        background-color: cyan;
+        border: none;
+        color: black;
+        padding: 0.5rem;
+        width: 8rem;
+        cursor: pointer;
+         }
+         
+         .doprava {
+             display: flex;
+         margin-left: 80px;
+             margin-top: 50px;
+         }
+
+         .text {
+             margin-top: 80px;
+             font-size: 55px;
+             margin-left: 30px;
+         }
+         
+table.GeneratedTable {
+    margin-top: 40px;
+    margin-left: 150px;
+width:80%;
+background-color:#FFFFFF;
+border-collapse:collapse;border-width:1px;
+border-color:#336600;
+border-style:solid;
+color:#000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+border-width:1px;
+border-color:#336600;
+border-style:solid;
+padding:3px;
+}
+
+table.GeneratedTable thead {
+background-color:#99FFFF;
+}
+
+

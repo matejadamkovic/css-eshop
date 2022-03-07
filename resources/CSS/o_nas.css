@@ -1,0 +1,153 @@
+*{ 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:0;
+    padding: 0;
+    }
+    header{
+        background-color: grey;
+        color:white;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+        height: 60px;
+        position: sticky;
+      }
+      
+      .nazov{
+      padding-right: 700px;
+      font-size: 30px;
+      text-decoration: none;
+      padding-top: 10px;
+      }
+      a{
+        text-decoration: none;
+        color: white;
+        margin: 15px;
+        font-size: 14px;
+        padding-top: 10px;
+        position: relative;
+        font-weight: 700;
+      }
+      .navigac{
+      
+      padding-top: 20px;
+      }
+      
+      a:hover{
+      color:rgb(56, 42, 42);
+      transition: 1s;
+      text-shadow: 0 0 10px #fff ,
+      0 0 20px #fff ,
+      0 0 30px #fff ,
+      0 0 40px #fff ,
+      0 0 50px #fff ,
+      0 0 60px #fff ;
+      }
+      .logo{
+        width: 40px;
+        height: 40px;
+        padding-top: 10px;
+        cursor: pointer;
+      }
+      .menu{
+      width: 40px;
+      height: 40px;
+      padding-top: 10px;
+      padding-left: 5px;
+      cursor: pointer;
+      }
+      .o_nas {
+      border-style: inset;
+        padding: 5px;
+        color: white;
+      }
+     
+    .buttons{
+        background-color: cyan;
+        border: none;
+        color: black;
+        padding: 0.5rem;
+        width: 8rem;
+        cursor: pointer;
+    }
+    .formular1{
+      padding-top: 20px;
+text-align: center;
+width: 500px;
+padding-left: 500px;
+border: green;
+    }
+
+    .formular2{
+padding-top: 10px;
+text-align: center;
+width: 500px;
+padding-left: 500px;
+padding-bottom: 20px;
+    }
+
+    .nazov{
+      padding-right: 700px;
+      font-size: 30px;
+      text-decoration: none;
+      padding-top: 10px;
+      } 
+      h4{
+        font-size: 30px;
+            }
+
+.kontakt{
+padding-left: 20px;
+}
+
+.admin{
+float: right ;
+padding: 20px;
+}
+
+.img{
+  padding-top: 10px;
+}
+
+.prve {
+  margin-top: 40px;
+  border: 5px solid rgb(82, 82, 85);
+  border-radius: 5px;
+  
+}
+
+.onas{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+  text-decoration: underline;
+  margin-top: 10px;
+}
+
+
+.nas {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.kontakt {
+  padding-top: 20px;
+  display: grid;
+  justify-content: center;
+  font-size: 25px;
+}
+
+.sano {
+  margin-left: 80px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border: 10px solid rgb(146, 149, 155);
+  border-radius: 20px;
+}
+.vido{
+  padding:20px;
+text-align: center;
+}
